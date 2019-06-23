@@ -22,4 +22,4 @@ Once the deployment has completed, you’ll be able to access the following para
 Please make a note of the Ethereum RPC endpoint as we will be using it for workbench configuration. 
 A remote procedure call (RPC) is a interprocess communication technique that is used for point-to-point communications between software applications. Client and server applications communicate during this process.
 In this usecase you should to replace in test.js file with your RPC endpoint.
-![Screenshot](VSCode.PNG)
+![Screenshot](Img/VSCodeAzure.PNG)
