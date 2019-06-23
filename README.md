@@ -31,5 +31,5 @@ Client and server applications communicate during this process.In this usecase y
 ![Screenshot](Img/Admins.PNG)
 * Validator - A machine associated with an Ethereum account that participates in consensus validator node In the proof-of-authority protocol, validator nodes take the place of traditional miner nodes. Each validator has a unique Ethereum identity that gets added to a smart-contract permission list. Once a validator is on this list, it can participate in the block creation process.
 Also this solution also comes with Azure Monitor to track node and network statistics. For application developers, this provides visibility into the underlying blockchain to track block generation statistics. 
-![Screenshot](Img/Admins.PNG)
+![Screenshot](Img/MoitoringPoA.PNG)
 
